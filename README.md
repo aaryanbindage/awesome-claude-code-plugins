@@ -386,6 +386,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Knowledge Management
 - [bedrock](./plugins/bedrock)
+- [OmniContext](https://github.com/aaryanbindage/omnicontext) — Persistent cross-device memory for Claude: a profile, per-project notes and resumable session handoffs, synced through a private GitHub repo. Install: `/plugin marketplace add aaryanbindage/omnicontext` then `/plugin install omnicontext@omnicontext`
 
 ## External Marketplaces
 
